@@ -29,5 +29,5 @@ Sou desenvolvedor FullStack: :computer:
 <br/>⏳ **Gestão de Tempo**: Priorizar tarefas e gerenciar prazos de forma eficiente.
 <br/>
 <br/>
-:email: &nbsp; <strong>Entre em contato comigo</strong>: [![Linkedin Badge](https://img.shields.io/badge/-AijalonNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aijalon/)](https://www.linkedin.com/in/aijalon/) 
+:email: &nbsp; <strong>Entre em contato comigo</strong>: [![Linkedin Badge](https://img.shields.io/badge/-Aijalon_Nascimento-blue?style=flat-square&logo=logmein&logoColor=white&link=https://www.linkedin.com/in/aijalonti/)](https://www.linkedin.com/in/aijalon/)
 [![Gmail Badge](https://img.shields.io/badge/-aijalon.ti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aijalon.ti@gmail.com)](mailto:aijalon.ti@gmail.com)
