@@ -11,7 +11,7 @@ Sou desenvolvedor FullStack: :computer:
 <br/>
 <br/>🛠️ **Hard skills**:
 <br/>👨🏻‍💻 **Back-end**: Java (8 e 11), Spring (Boot, Security, Cloud, Data JPA), Hibernate e Microsserviços.
-<br/>⚛️ **Front-end**: JSP (HTML, CSS, Bootstrap, JavaScript e JQuery).
+<br/>⚛️ **Front-end**: Angular e JSP (HTML, CSS, Bootstrap, JavaScript e JQuery).
 <br/>☁️ **Nuvem**: Google Cloud Platform (GCP) e Amazon AWS.
 <br/>💾 **Banco de Dados**: Oracle PL/SQL e Postgres.
 <br/>🧪 **Testes**: JUnit, Mockito e RestAssured.
