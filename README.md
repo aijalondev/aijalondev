@@ -5,7 +5,7 @@
 Sou apaixonado por resolver problemas usando programação.
 Sou desenvolvedor FullStack: :computer:
 <br/>
-:rocket: Estou trabalhando na **Unimed Fortaleza** com quase 4 anos de casa :heart: 
+:rocket: Estou trabalhando na **Unimed Fortaleza** com 4 anos de casa :heart: 
 <br/> :purple_heart: Buscando colaborar com projetos em Front-end e Back-end
 <br/> :blush: Posso ajudá-lo com a criação de APIs
 <br/>
